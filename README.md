@@ -12,7 +12,7 @@ Yo, I'm Saiful — a game & web dev who's been crafting cool stuff for years. I 
 
 - 🐞 Creating bugs since 2018 (sometimes I fix them too).
 - 📨 Slide into my inbox: **dev_lufias@icloud.com**
-- 🌐 Check out my portfolio: [saiful-anik.netlify.app](https://saiful-anik.netlify.app/)
+- 🌐 Check out my portfolio: [saiful-anik.website](https://saiful-anik.website/)
 
 ---
 
