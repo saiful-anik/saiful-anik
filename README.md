@@ -26,7 +26,7 @@ More in my [portfolio](https://saiful-anik.website/projects).
 
 **Games:** Unity, C#  
 **Web:** TypeScript, JavaScript, React, Vite, Tailwind CSS, HTML, CSS  
-**Backend & data:** Firebase, Supabase, PostgreSQL  
+**Backend & data:** Firebase, Supabase, Neon, PostgreSQL  
 **Design:** Figma, Blender, Adobe Illustrator, Canva
 
 🐞 Creating bugs since 2018 (sometimes I fix them too).
