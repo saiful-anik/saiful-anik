@@ -16,7 +16,7 @@ I build playable worlds and fast, polished web apps. Nearly four years at Ghost 
 | Bus Simulator Bangladesh | Mobile bus simulator (Unity) | [Google Play](https://play.google.com/store/apps/details?id=com.GhostInteractive.BusSimulatorBangladesh) |
 | Spear Mania | Unity WebGL game | [Play](https://spearmania.bysaiful.site/) |
 | Floofy Hop | Unity WebGL game | [Play](https://floofyhop.bysaiful.site/) |
-| Courier Clash | Browser game (JS) | [Play](https://saiful-anik.github.io/CourierClashBuild/) |
+| Courier Clash | Unity WebGL game | [Play](https://saiful-anik.github.io/CourierClashBuild/) |
 | Jolly Crates | NFT crates on NEAR + Telegram game | [Visit](https://jollycrates.fun/) |
 | Skill Swap | Trade skills, not money | [Visit](https://skillswap.bysaiful.site/) |
 
